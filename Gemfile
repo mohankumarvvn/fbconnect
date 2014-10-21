@@ -29,6 +29,8 @@ gem 'spring',        group: :development
 # Add simple form
 gem 'simple_form'
 
+#Add devise for signup sign in
+gem 'devise'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
