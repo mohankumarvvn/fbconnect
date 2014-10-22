@@ -31,6 +31,10 @@ gem 'simple_form'
 
 #Add devise for signup sign in
 gem 'devise'
+
+#Add facebook authentication via omniauth
+gem 'omniauth-facebook'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
